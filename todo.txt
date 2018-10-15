@@ -1,8 +1,0 @@
-TODO:
-
-1. Do Lara init call and check if in authoring mode
-2. If in authoring mode show dialog to get url with option to disable next button
-3. Show video when url is updated in authoring mode
-4. If not in authoring mode disable next button if needed and load video
-5. Add callback when video is complete to enable next button and log video watched
-6. Update doc in LARA navigation api for next button disable
